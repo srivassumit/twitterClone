@@ -6,3 +6,5 @@ Steps for running the Application
 3) 
 
 Database Configuration
+1) 
+2)
